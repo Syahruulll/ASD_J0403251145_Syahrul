@@ -3,6 +3,7 @@
 # Latihan Dasar 1A: Membaca seluruh isi file
 # Nama : Syahrul Hidayatullah
 # NIM  : J0403251145
+# Kelas : TPL A2
 # ==========================================================
 # Membuka file dalam mode read ("r")
 with open("data_mahasiswa.txt", "r", encoding="utf-8") as file:

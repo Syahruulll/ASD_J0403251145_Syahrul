@@ -3,6 +3,7 @@
 # Latihan 1: membuat fungsi load data dari file
 # Nama : Syahrul Hidayatullah
 # NIM  : J0403251145
+# Kelas : TPL A2
 # ==========================================================
 
 
