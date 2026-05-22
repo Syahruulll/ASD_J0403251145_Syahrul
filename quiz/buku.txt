@@ -1,0 +1,5 @@
+B001,Dasar Pemrograman,75000
+B002,Struktur Data dan Algoritma,120000
+B003,Matematika Diskrit,90000
+B004,Pemrograman Python Lanjut,150000
+B005,Basis Data,110000
